@@ -1,12 +1,15 @@
 {
-  "TT":
-    {
-      "Monday":{ "key1" : "value1" },
-      "Tuesday":"PC BEE PHY MA2 CP PC2", 
-      "Wedneday":"EM PHY CP CLAB" ,
-      "Thursady":"MA2 BEE EM PHY" ,
-      "Friday":"CP MA2 PHY PC BEE"
+  "TT":{
+        "Monday":{ 
+            "8:30-9:20"   : "BEE",
+            "9:30-10:20"  : "CP",
+            "10:30-11:20" : "MA2",
+            "11:30-12:20" : "PHY",
+            "1:30-3:30"   : "BEELAB"
+        }
+
     }
+
   ,
 
   "links": [
