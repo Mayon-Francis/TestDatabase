@@ -1,5 +1,5 @@
 {
-  "TT":[
+  "TT":
     {
       "Monday":"BEE CP MA2 PHY EE/EC",
       "Tuesday":"PC BEE PHY MA2 CP PC2", 
@@ -7,7 +7,7 @@
       "Thursady":"MA2 BEE EM PHY" ,
       "Friday":"CP MA2 PHY PC BEE"
     }
-  ],
+  ,
 
   "links": [
     { 
