@@ -1,7 +1,7 @@
 {
   "TT":
     {
-      "Monday":"BEE CP MA2 PHY EE/EC",
+      "Monday":{ "key1" : "value1" },
       "Tuesday":"PC BEE PHY MA2 CP PC2", 
       "Wedneday":"EM PHY CP CLAB" ,
       "Thursady":"MA2 BEE EM PHY" ,
