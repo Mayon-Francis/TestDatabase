@@ -1,12 +1,51 @@
-"TT":[
+{
+  "TT":[
     {
-        "Monday":{ 
-            "8:30-9:20":"BEE",
-            "9:30-10:20"  : "CP",
-            "10:30-11:20" : "MA2",
-            "11:30-12:20" : "PHY",
-            "1:30-3:30"   : "BEELAB",
-           },
-
+      "Monday":"BEE CP MA2 PHY EE/EC",
+      "Tuesday":"PC BEE PHY MA2 CP PC2", 
+      "Wedneday":"EM PHY CP CLAB" ,
+      "Thursady":"MA2 BEE EM PHY" ,
+      "Friday":"CP MA2 PHY PC BEE"
     }
-]
+  ],
+
+  "links": [
+    { 
+      "subject":"PHY",
+      "gmeet":"https://meet.google.com/sze-rjjk-mhq" ,
+      "moodle": "http://moodle.mec.ac.in/mod/attendance/view.php?id=10241"
+      
+    },
+    {
+      "subject":"BEE",
+      "gmeet": "https://meet.google.com/swt-wqno-utu",
+      "moodle": "http://moodle.mec.ac.in/mod/attendance/view.php?id=10115"
+      
+    },
+     {
+      "subject":"EM",
+      "gmeet": "https://meet.google.com/jqn-butk-ixm",
+      "moodle": "http://moodle.mec.ac.in/mod/attendance/view.php?id=10280"
+      
+    },
+     {
+      "subject":"MA2",
+      "gmeet": "https://meet.google.com/mbc-hpmr-jhk",
+      "moodle": "http://moodle.mec.ac.in/mod/attendance/view.php?id=10013"
+      
+    },
+     {
+      "subject":"PC",
+      "gmeet": "https://meet.google.com/div-mdjr-ykb",
+      "moodle": "http://moodle.mec.ac.in/mod/attendance/view.php?id=10266"
+      
+    },
+ {
+      "subject":"PC2",
+      "gmeet": "https://meet.google.com/ovk-xrup-gck",
+      "moodle": "http://moodle.mec.ac.in/mod/attendance/view.php?id=10266"
+      
+    }
+
+  ]
+}
